@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_cast
+
 import 'dart:convert';
 import 'dart:io';
 
