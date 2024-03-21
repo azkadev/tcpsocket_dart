@@ -1,7 +1,10 @@
-# Tcp client and server dart simple auto reconnect
+IyBUY3AgY2xpZW50IGFuZCBzZXJ2ZXIgZGFydCBzaW1wbGUgYXV0byByZWNv
+bm5lY3QKCj4gVGNwIGNsaWVudCBhbmQgc2VydmVyIGRhcnQgc2ltcGxlIGF1
+dG8gcmVjb25uZWN0Cgpzb3VyY2UgY29kZSBoYW1waXIgc2FtYSBkZW5nYW4g
+cmVwbyBpbmkgamFkaSBzaWxhaGthbiB0b250b24gdmlkZW8gaW5pIHlhIGpp
+a2EgYmluZ3VuZwoKW1NwZWVkLUNvZGVdKGh0dHBzOi8vd3d3LnlvdXR1YmUu
+Y29tL3dhdGNoP3Y9YUxlVUUxaEV1bEUpCg==
 
-> Tcp client and server dart simple auto reconnect
-
-source code hampir sama dengan repo ini jadi silahkan tonton video ini ya jika bingung
-
-[Speed-Code](https://www.youtube.com/watch?v=aLeUE1hEulE)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
